@@ -1,0 +1,14 @@
+{
+  "patient_id": "patient_01",
+  "modality": "MRI",
+  "body_part": "Knee",
+  "scan_date": "2024-11-10",
+  "image_paths": [
+    "patient_01/Patient 1 - image 1.jpg"
+  ],
+  "radiology_report": "Marrow edema of the upper tibial plateau, in keeping with the presenting status of an un-displaced tibial plateau fracture. Moderate knee effusion with fluid level showing upper high T1 signal fluid and lower low T1 signal fluid consistent with fat-fluid level. Presentation: Patient with non-displaced tibial plateau fracture.",
+  "demographics": {
+    "age": 20,
+    "gender": "Male"
+  }
+}
