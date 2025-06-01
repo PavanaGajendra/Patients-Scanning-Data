@@ -4,14 +4,14 @@
   "body_part": "Knee",
   "scan_date": "2024-11-12",
   "image_paths": [
-    "Patient 2 - image 1.jpeg",
-    "Patient 2 - image 2.jpeg",
-    "Patient 2 - image 3.jpeg",
-    "Patient 2 - image 4.jpeg",
-    "Patient 2 - image 5.jpeg",
-    "Patient 2 - image 6.jpeg",
-    "Patient 2 - image 7.jpeg",
-    "Patient 2 - image 8.jpeg"
+    "Patients-Scanning-Data/Patient 2 - image 1.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 2.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 3.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 4.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 5.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 6.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 7.jpeg",
+    "Patients-Scanning-Data/Patient 2 - image 8.jpeg"
   ],
   "radiology_report": "Schatzker II fracture as splitting and depression of the lateral tibial plateau is seen associated with lipohaemoarthrosis. Bone marrow edema also is seen at the middle weight-bearing area of lateral femoral condyle as well as the posteromedial aspect of tibia plateau. There is also abnormal intrasubstance increased fluid signal along the course of fibular collateral ligament related to FCL sprain.",
   "case_discussion": "This case illustrates a Schatzker II fracture at the lateral tibial plateau with a depressed component associated with lipohaemoarthrosis.",
